@@ -11,3 +11,6 @@ Gmail | maria_e_sangaletti@estudante.sc.senai.br
 * Facilidade em mexer em programas de Astronomia
 * Iniciante em java 
 * Iniciante em Html
+
+## **Atividade BD LOJA DE ROUPAS**
+</https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/main/lojaderoupas.sqlREADME.md> 

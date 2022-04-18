@@ -1,4 +1,4 @@
-# Portf-lio-2b-tecnico
+# Portf-lio-tecnico
 ## Maria Eduarda Kuhnn Sangaletti 
 Neste repositório será armazenado as atividades do módulo técnico da Escola S, turma 2B. 
 ## Informações 

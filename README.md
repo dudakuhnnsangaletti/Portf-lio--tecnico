@@ -1,4 +1,4 @@
-# Portf-lio-tecnico
+# **Portfolio tecnico**
 ## Maria Eduarda Kuhnn Sangaletti 
 Neste repositório será armazenado as atividades do módulo técnico da Escola S.
 ## Informações 
@@ -14,4 +14,4 @@ Gmail | maria_e_sangaletti@estudante.sc.senai.br
 
 ## **Atividade BD LOJA DE ROUPAS**
 
-[lojaderoupas.sql](https://dudakuhnnsangaletti/Portfolio_tecnico/lojaderoupas.sql\README.md)
+[lojaderoupas.sql](https://dudakuhnnsangaletti/Portfolio_tecnico/lojaderoupas.sql\README.md): Nesta Atividade foi realizada a criação de tabelas e suas respectivas alterações para o Banco de dados de uma loja de roupas. Escolhi essa atividade pois eu aprendi e compreendi de forma mais clara os códigos e comandos no processo do desenvolvimento do Banco de Dados.

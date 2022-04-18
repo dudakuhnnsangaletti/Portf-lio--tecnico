@@ -13,4 +13,5 @@ Gmail | maria_e_sangaletti@estudante.sc.senai.br
 * Iniciante em Html
 
 ## **Atividade BD LOJA DE ROUPAS**
-</https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/main/lojaderoupas.sqlREADME.md> 
+
+[lojaderoupas.sql](https://dudakuhnnsangaletti/Portfolio_tecnico/lojaderoupas.sql\README.md)

@@ -1,6 +1,6 @@
 # Portf-lio-tecnico
 ## Maria Eduarda Kuhnn Sangaletti 
-Neste repositório será armazenado as atividades do módulo técnico da Escola S, turma 2B. 
+Neste repositório será armazenado as atividades do módulo técnico da Escola S.
 ## Informações 
 Nome | Maria Eduarda Kuhnn Sangaletti
 Data de Nascimento | 07/05/2005

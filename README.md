@@ -16,4 +16,4 @@ Gmail | maria_e_sangaletti@estudante.sc.senai.br
 
 [lojaderoupas.sql](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/Banco%20de%20Dados/lojaderoupas.sql): Nesta Atividade foi realizada a criação de tabelas e suas respectivas alterações para o Banco de dados de uma loja de roupas. Escolhi essa atividade pois eu aprendi e compreendi de forma mais clara os códigos e comandos no processo do desenvolvimento do Banco de Dados.
 ## **Atividade DIAGRAMA DE CLASSES - PLATAFORMA EMPRESAS**
-![DiagramadeClasse](https://file/d/1XoVc2ZbH-6tWbmQLgqsUX4iZRS-HKX-V/view)
+![diagrama.classe](https://app.diagrams.net/#G1XoVc2ZbH-6tWbmQLgqsUX4iZRS-HKX-V)

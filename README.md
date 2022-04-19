@@ -23,5 +23,8 @@ O objetivo da atividade foi desenvolver um diagrama de classes de um sistema com
 A escolha dessa atividade foi pelo motivo de que diagramas de classe são fundamentais para o processo de modelagem de objetos e modelam a estrutura estática de um sistema, então a prática do mesmo me fez compreender sobre essa etapa importante da modelagem de sistemas.
 
 ## **Atividade Programação de Aplicativos - Mensagem TOAST**
+![toastaula](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/toastaula.PNG)
 ![aulatoast](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/aulatoast.PNG)
+
+A captura de tela do emulador exibindo uma mensagem no formato TOAST, que geralmente nos oferece uma forma de exibir uma pequena e rápida mensagem aos usuários de nossas aplicações Android. A mensagem exibida aparecerá como uma view flutuante sobre a tela atual da aplicação e não receberá foco. O objetivo é apenas alertar o usuário sobre o sucesso ou fracasso de alguma atividade, aguardar alguns segundos e fazer a mensagem desaparecer.  No caso desta atividade, a mensagem exibida está no print 2. E a escolha do trabalho se determina através da importancia dessa Classe na Programação de Aplicativos. 
 

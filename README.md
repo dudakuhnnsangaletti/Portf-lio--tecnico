@@ -29,3 +29,13 @@ A escolha dessa atividade foi pelo motivo de que diagramas de classe são fundam
 
 A captura de tela do emulador exibindo uma mensagem no formato TOAST, que geralmente nos oferece uma forma de exibir uma pequena e rápida mensagem aos usuários de nossas aplicações Android. A mensagem exibida aparecerá como uma view flutuante sobre a tela atual da aplicação e não receberá foco. O objetivo é apenas alertar o usuário sobre o sucesso ou fracasso de alguma atividade, aguardar alguns segundos e fazer a mensagem desaparecer.  No caso desta atividade, a mensagem exibida está no print 2. E a escolha do trabalho se determina através da importancia dessa Classe na Programação de Aplicativos. 
 
+
+
+## **Projeto final - Banco de Dados **
+https://drive.google.com/file/d/1Uggi93VcrxxlM9Li3YeZrNwiCHbXqsk-/view
+
+O projeto de banco de dados é fundamental para implementação da tecnologia de banco de dados, principalmente  em uma empresa. Para pequenos sistemas muitas vezes o responsável pelo projeto parte diretamente para a criação do banco de dados físico e em seguida a criação das tabelas, colunas e índices. 
+
+Um projeto de banco de dados é caracterizado por um processo que possui fases distintas e com aspectos diferentes mas que tem como objetivo final a implementação de um banco de dados que atenda as necessidades de informação do usuário e aos requisitos não funcionais de disponibilidade, desempenho e confiabilidade esperados.
+
+

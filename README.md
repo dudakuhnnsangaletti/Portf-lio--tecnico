@@ -45,5 +45,4 @@ https://drive.google.com/file/d/1EcyrQuISaMO22RKzdi7ePHY7v2k7DDge/view
 A nicotina causa forte dependência. Quando inalada com a fumaça, ela chega ao cérebro em poucos segundos e causa a liberação de substâncias como dopamina e serotonina, que imediatamente proporcionam sensação de prazer e bem-estar, mas muitas vezes, o individuo não sabe o mal que está lhe causando, ignora os fatos e riscos sobre a sua vida. Por conta disso, o aplicativo serve para o usuário inserir quantos cigarros no dia ele fumou, pois até um limite de cigarros diários, o aplicativo informs que ele está fumando muito e melhor parar. 
 
 ## **19/05 Diagrama de atividades do sistema de teste vocacional - MODELAGEM DE SISTEMAS**
-![toastaula](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/Untitled Diagram.JPG)
 

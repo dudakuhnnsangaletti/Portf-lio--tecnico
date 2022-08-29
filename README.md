@@ -32,9 +32,18 @@ A captura de tela do emulador exibindo uma mensagem no formato TOAST, que geralm
 
 
 ## **Projeto final - Banco de Dados**
+
 https://drive.google.com/file/d/1Uggi93VcrxxlM9Li3YeZrNwiCHbXqsk-/view
 
 O projeto de banco de dados é fundamental para implementação da tecnologia de banco de dados, principalmente  para funcionamento de uma empresa, clinica, estabelecimentos e etc. Para pequenos sistemas como esse,  muitas vezes o projeto parte diretamente para a criação do banco de dados físico e em seguida a criação das tabelas e colunas para funcionamento do sistema.
 Este projeto passou por um processo que teve fases distintas e com aspectos diferentes mas que tem como objetivo final a implementação de um banco de dados que atenda as necessidades de informação do usuário e aos requisitos não funcionais de disponibilidade, desempenho e confiabilidade esperados.
 
+## **APP uso de Cigarro - Programação de Aplicativos**
+
+https://drive.google.com/file/d/1EcyrQuISaMO22RKzdi7ePHY7v2k7DDge/view
+
+A nicotina causa forte dependência. Quando inalada com a fumaça, ela chega ao cérebro em poucos segundos e causa a liberação de substâncias como dopamina e serotonina, que imediatamente proporcionam sensação de prazer e bem-estar, mas muitas vezes, o individuo não sabe o mal que está lhe causando, ignora os fatos e riscos sobre a sua vida. Por conta disso, o aplicativo serve para o usuário inserir quantos cigarros no dia ele fumou, pois até um limite de cigarros diários, o aplicativo informs que ele está fumando muito e melhor parar. 
+
+## **19/05 Diagrama de atividades do sistema de teste vocacional - MODELAGEM DE SISTEMAS**
+![toastaula](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/Untitled Diagram.JPG)
 

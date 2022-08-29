@@ -47,3 +47,5 @@ A nicotina causa forte dependência. Quando inalada com a fumaça, ela chega ao 
 ## **19/05 Diagrama de atividades do sistema de teste vocacional - MODELAGEM DE SISTEMAS**
 ![digarma](https://github.com/dudakuhnnsangaletti/Portfolio_tecnico/blob/main/Untitled%20Diagram%20(3).jpg)
 
+Um diagrama de atividade ilustra a natureza dinâmica de um sistema pela modelagem do fluxo de controle de atividade à atividade. Uma atividade representa uma operação em alguma classe no sistema que resulta em uma mudança no estado do sistema. Ele simila a uma máquina de estados, mas tem um propósito diferente, o qual envolve capturar ações e seus resultados em termos de mudanças do estado do objeto. O diagrama de atividades é representado por um gráfico de atividades que mostram o fluxo de uma atividade para outra. Esse fluxo é mostrado através de transições, que são setas direcionadas, mostrando o caminho entre os estados de atividade (ação). 
+

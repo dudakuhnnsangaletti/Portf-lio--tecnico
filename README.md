@@ -25,7 +25,6 @@ Data de Nascimento | 07/05/2005
   
 ## Habilidades 
 * Ingles Intermediário 
-* Facilidade em mexer em programas de Astronomia
 * Iniciante em java 
 * Iniciante em Html
 * Linguagem SQL Intermediário

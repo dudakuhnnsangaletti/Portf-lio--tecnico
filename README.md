@@ -1,8 +1,7 @@
 # **Portfolio tecnico**
-## Maria Eduarda Kuhnn Sangaletti 
+## Olá, eu sou a Maria Eduarda Kuhnn Sangaletti 
+
 Neste repositório será armazenado as atividades do módulo técnico da Escola S.
-## Informações 
-Nome | Maria Eduarda Kuhnn Sangaletti
 Data de Nascimento | 07/05/2005
 <div align="center">
   <a href="https://github.com/dudakuhnnsangaletti">

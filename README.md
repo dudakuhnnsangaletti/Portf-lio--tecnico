@@ -9,6 +9,8 @@ Data de Nascimento | 07/05/2005
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudakuhnnsangaletti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  
+  
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />

@@ -4,7 +4,8 @@ Neste repositório será armazenado as atividades do módulo técnico da Escola 
 ## Informações 
 Nome | Maria Eduarda Kuhnn Sangaletti
 Data de Nascimento | 07/05/2005
-Gmail | maria_e_sangaletti@estudante.sc.senai.br
+(https://github-readme-stats.vercel.app/api?dudakuhnnsangaletti=anuraghazra&show_icons=true)
+
 
 ## Habilidades 
 * Ingles Intermediário 

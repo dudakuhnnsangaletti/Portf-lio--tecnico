@@ -9,8 +9,8 @@ Data de Nascimento | 07/05/2005
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudakuhnnsangaletti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
-            <i class="devicon-postgresql-plain colored"></i>
+  <i class="devicon-postgresql-plain colored"></i>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
   
   

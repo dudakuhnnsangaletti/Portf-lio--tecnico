@@ -3,6 +3,7 @@
 
 Neste repositório será armazenado as atividades do módulo técnico da Escola S.
 Data de Nascimento | 07/05/2005
+
 <div align="center">
   <a href="https://github.com/dudakuhnnsangaletti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudakuhnnsangaletti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,11 +20,7 @@ Data de Nascimento | 07/05/2005
     <div> 
   <a href="https://instagram.com/dudwinha" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dudaksangaletti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/dudakuhnnsangaletti/dudakuhnnsangaletti/blob/output/github-contribution-grid-snake.svg)
- 
-</div>    
-  
+
   
   
 ## Habilidades 

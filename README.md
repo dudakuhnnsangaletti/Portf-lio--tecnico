@@ -2,6 +2,7 @@
 ## Olá, eu sou a Maria Eduarda Kuhnn Sangaletti! 
 
 Neste repositório será armazenado as atividades do módulo técnico da Escola S.
+
 Data de Nascimento | 07/05/2005
 
 <div align="center">

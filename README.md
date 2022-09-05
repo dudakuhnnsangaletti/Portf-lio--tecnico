@@ -3,7 +3,6 @@
 
 Neste repositório será armazenado as atividades do módulo técnico da Escola S.
 
-Data de Nascimento | 07/05/2005
 
 <div align="center">
   <a href="https://github.com/dudakuhnnsangaletti">
